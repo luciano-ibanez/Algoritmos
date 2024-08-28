@@ -1,6 +1,8 @@
 # AyED
 Trabajo Practico Numero: 0
+
 Comision: K1102
+
 Nombre y Apellido: Luciano Benjamin Ibañez
 
 Enunciado:
